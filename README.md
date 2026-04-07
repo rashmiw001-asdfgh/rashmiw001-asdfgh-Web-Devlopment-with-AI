@@ -91,7 +91,7 @@ After setup, you will be able to:
 
 ## 📞 Support
 
-If you face any issues during installation, contact your instructor before the session.
+If you face any issues during installation, we will conduct an online meeting before the session to help resolve them.
 
 ---
 
