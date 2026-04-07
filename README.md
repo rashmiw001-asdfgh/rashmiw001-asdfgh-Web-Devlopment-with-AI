@@ -26,7 +26,7 @@ Use the official links below to download:
 
 * VS Code: https://code.visualstudio.com/
 * Node.js: https://nodejs.org/
-* PostgreSQL: https://www.postgresql.org/download/
+* PostgreSQL: https://www.pgadmin.org/download/
 * Postman: https://www.postman.com/downloads/
 * Git: https://git-scm.com/downloads
 * GitHub Desktop: https://desktop.github.com/
